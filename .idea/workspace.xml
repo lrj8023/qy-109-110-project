@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1f276ea-7f2a-4f93-95e8-62b5f23f3410" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$PROJECT_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qy-109-110-project-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qy-109-110-project-common/qy-109-110-project-common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qy-109-110-project-common/src/main/java/com/aaa/cancer/base/BaseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qy-109-110-project-common/src/main/java/com/aaa/cancer/base/ResultData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qy-109-110-project-common/src/main/java/com/aaa/cancer/status/LoginStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qy-109-110-project-config/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qy-109-110-project-consumer-management/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qy-109-110-project-eureka-management/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qy-109-110-project-eureka-management/qy-109-110-project-eureka-6081/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qy-109-110-project-eureka-management/qy-109-110-project-eureka-6082/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qy-109-110-project-eureka-management/qy-109-110-project-eureka-6083/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qy-109-110-project-eureka-management/qy-109-110-project-eureka-6083/qy-109-110-project-eureka-6083.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qy-109-110-project-management/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qy-109-110-project-management/qy-109-110-project-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qy-109-110-project-management/qy-109-110-project-api/qy-109-110-project-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qy-109-110-project-management/qy-109-110-project-management.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qy-109-110-project-management/qy-109-110-project-mapper/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qy-109-110-project-management/qy-109-110-project-model/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qy-109-110-project-management/qy-109-110-project-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qy-109-110-project-management/qy-109-110-project-service/qy-109-110-project-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qy-109-110-project-provider-management/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qy-109-110-project-provider-management/qy-109-110-project-provider-management.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qy-109-110-project-zuul/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qy-109-110-project-zuul/qy-109-110-project-zuul.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qy-109-110-project.iml" afterDir="false" />
+      <change afterPath="E:/二期项目本地仓库/project2" afterDir="false" />
+      <change afterPath="E:/二期项目本地仓库/project2/project2/project2-common/project2-common.iml" afterDir="false" />
+      <change afterPath="E:/二期项目本地仓库/project2/project2/project2-config/project2-config.iml" afterDir="false" />
+      <change afterPath="E:/二期项目本地仓库/project2/project2/project2-consumer-management/project2-consumer-management.iml" afterDir="false" />
+      <change afterPath="E:/二期项目本地仓库/project2/project2/project2-eureka-management/project2-eureka-6081/project2-eureka-6081.iml" afterDir="false" />
+      <change afterPath="E:/二期项目本地仓库/project2/project2/project2-eureka-management/project2-eureka-6082/project2-eureka-6082.iml" afterDir="false" />
+      <change afterPath="E:/二期项目本地仓库/project2/project2/project2-eureka-management/project2-eureka-6083/project2-eureka-6083.iml" afterDir="false" />
+      <change afterPath="E:/二期项目本地仓库/project2/project2/project2-eureka-management/project2-eureka-management.iml" afterDir="false" />
+      <change afterPath="E:/二期项目本地仓库/project2/project2/project2-management/project2-api/project2-api.iml" afterDir="false" />
+      <change afterPath="E:/二期项目本地仓库/project2/project2/project2-management/project2-management.iml" afterDir="false" />
+      <change afterPath="E:/二期项目本地仓库/project2/project2/project2-management/project2-mapper/project2-mapper.iml" afterDir="false" />
+      <change afterPath="E:/二期项目本地仓库/project2/project2/project2-management/project2-model/project2-model.iml" afterDir="false" />
+      <change afterPath="E:/二期项目本地仓库/project2/project2/project2-management/project2-service/project2-service.iml" afterDir="false" />
+      <change afterPath="E:/二期项目本地仓库/project2/project2/project2-provider-management/project2-provider-backup/project2-provider-backup.iml" afterDir="false" />
+      <change afterPath="E:/二期项目本地仓库/project2/project2/project2-provider-management/project2-provider-management.iml" afterDir="false" />
+      <change afterPath="E:/二期项目本地仓库/project2/project2/project2-zuul/project2-zuul.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\二期项目\qy-109-110-project\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Program Files (x86)/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\Program Files (x86)\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eOS9jqQto0XjtyZwgl4fd9rmxG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1f276ea-7f2a-4f93-95e8-62b5f23f3410" name="Default Changelist" comment="" />
+      <created>1594190996463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594190996463</updated>
+      <workItem from="1594191000915" duration="14072000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1251" y="224" key="#com.intellij.ide.util.MemberChooser" timestamp="1594197154940">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1251" y="224" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1594197154940" />
+    <state x="623" y="76" key="CommitChangelistDialog2" timestamp="1594212504963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="76" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1594212504963" />
+    <state x="368" y="46" key="DiffContextDialog" timestamp="1594212141303">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="368" y="46" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594212141303" />
+    <state x="1219" y="278" key="FileChooserDialogImpl" timestamp="1594211961753">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1219" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594211961753" />
+    <state x="1235" y="436" width="382" height="175" key="Github.CreateGistDialog" timestamp="1594206574078">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1235" y="436" width="382" height="175" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594206574078" />
+    <state x="1216" y="329" width="316" height="272" key="Github.ShareDialog" timestamp="1594211540088">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1216" y="329" width="316" height="272" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594211540088" />
+    <state x="1025" y="224" key="Github.UntrackedFilesDialog" timestamp="1594209626970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1025" y="224" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594209626970" />
+    <state x="915" y="165" key="SettingsEditor" timestamp="1594211915451">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="915" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594211915451" />
+    <state x="1207" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594211598805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1207" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594211598805" />
+    <state x="956" y="346" width="955" height="612" key="new project wizard" timestamp="1594194760342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="956" y="346" width="955" height="612" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1594194760342" />
+    <state x="1109" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1594197098094">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1109" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594197098094" />
+  </component>
+</project>
